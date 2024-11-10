@@ -1,4 +1,4 @@
-python assignment.py 100
+python divisors.py 100
 
 import sys
 
