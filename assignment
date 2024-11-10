@@ -1,3 +1,5 @@
+python assignment.py 100
+
 import sys
 
 number = int(sys.argv[1])
